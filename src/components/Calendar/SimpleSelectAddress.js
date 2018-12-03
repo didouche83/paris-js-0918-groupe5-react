@@ -12,6 +12,7 @@ class SwitchLabels extends React.Component {
     this.setState({ [name]: event.target.checked });
   };
 
+  console.log(this.state.checkedE)
   render() {
     return (
       <FormGroup row>

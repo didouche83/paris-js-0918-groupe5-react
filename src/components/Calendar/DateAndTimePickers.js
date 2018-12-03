@@ -6,7 +6,7 @@ import TextField from '@material-ui/core/TextField';
 // import DateTimePicker from 'material-ui-datetimepicker';
 // import DatePickerDialog from 'material-ui/DatePicker/DatePickerDialog';
 // import TimePickerDialog from 'material-ui/TimePicker/TimePickerDialog';
-console.log('ola', new Date())
+// console.log('ola', new Date())
 const styles = theme => ({
   container: {
     display: 'flex',
@@ -18,7 +18,7 @@ const styles = theme => ({
     width: 260,
   },
   beginningDate: {
-    marginRight: '1.9vw',
+    marginRight: '1.7vw',
     width: 260,
   },
 });
